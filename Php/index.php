@@ -4,6 +4,6 @@
 	<title></title>
 </head>
 <body>
-   <?="echo bonjour"; ?> 
+   <?="bonjour"; ?> 
 </body>
 </html>
